@@ -20,13 +20,13 @@ These are QML files for Strategi in ESRI Shapefile format for use in QGIS.
 
 **5.**  Although every feature is styled, for use as a contextual map we recommend the following layer order and visibility:
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/Strategi-stylesheets/raw/master/ESRI%20Shapefile%20stylesheets/QGIS%20stylesheets%20(QML)/Full%20Colour%20style/images/Strat_layer_order.PNG "Recommended layer order for Strategi")
+  ![Screenshot](https://github.com/OrdnanceSurvey/Strategi-stylesheets/raw/master/ESRI%20Shapefile%20stylesheets/QGIS%20stylesheets%20(QML)/Full%20Colour%20style/images/Strategi_layer_order.PNG "Recommended layer order for Strategi")
 
 We recommend viewing the map between **1:75,000** and **1:175,000** for maximum legibility
 
 Your map should now look similar to this: 
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/Strategi-stylesheets/raw/master/ESRI%20Shapefile%20stylesheets/QGIS%20stylesheets%20(QML)/Full%20Colour%20style/images/Strat_FC_screenshot.PNG "Screenshot of Strategi at 1:125,000")
+  ![Screenshot](https://github.com/OrdnanceSurvey/Strategi-stylesheets/raw/master/ESRI%20Shapefile%20stylesheets/QGIS%20stylesheets%20(QML)/Full%20Colour%20style/images/Strategi_FC_screenshot.PNG "Screenshot of Strategi at 1:125,000")
 
 ## Additional information
 

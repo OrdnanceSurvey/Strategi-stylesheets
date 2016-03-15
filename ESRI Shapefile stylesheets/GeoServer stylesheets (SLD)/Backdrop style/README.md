@@ -26,7 +26,7 @@ The scale denominators have been set to allow viewing between **1:70,000** and *
 
 Your map should look similar to this: 
 
-  ![Screenshot](https://raw.githubusercontent.com/OrdnanceSurvey/OS-VectorMap-Local-stylesheets/master/ESRI%20Shapefile%20stylesheets/GeoServer%20stylesheets%20%28SLD%29/Backdrop%20style/images/Strategi_BD_Screenshot.png "Screenshot of Strategi")
+  ![Screenshot](https://raw.githubusercontent.com/OrdnanceSurvey/OS-VectorMap-Local-stylesheets/master/ESRI%20Shapefile%20stylesheets/GeoServer%20stylesheets%20%28SLD%29/Backdrop%20style/images/Strategi_BD_screenshot.png "Screenshot of Strategi")
 
 ##Compatibility notes
 

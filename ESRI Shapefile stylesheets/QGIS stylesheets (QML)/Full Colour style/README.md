@@ -16,7 +16,7 @@ These are QML files for Strategi in ESRI Shapefile format for use in QGIS.
 
 **4.**  Load your Strategi data into QGIS and it should appear pre-styled
 
-*Aternatively you can load each style individually through the 'Layer Properties' window within QGIS*
+*Alternatively you can load each style individually through the 'Layer Properties' window within QGIS*
 
 **5.**  Although every feature is styled, for use as a contextual map we recommend the following layer order and visibility:
 

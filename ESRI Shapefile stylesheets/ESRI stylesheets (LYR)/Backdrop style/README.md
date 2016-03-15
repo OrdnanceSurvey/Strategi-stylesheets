@@ -24,7 +24,7 @@ These are LYR files for Strategi in ESRI Shapefile format for use in ESRI ArcGIS
 
 **8.**  Your Table of Contents should now look like this. This is the recommended layer order: 
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/Strategi-stylesheets/raw/master/ESRI%20Shapefile%20stylesheets/ESRI%20stylesheets%20(LYR)/Backdrop%20style/images/Strategi_layer_order.PNG "Recommended layer order for Strategi")
+  ![Screenshot](https://github.com/OrdnanceSurvey/Strategi-stylesheets/raw/master/ESRI%20Shapefile%20stylesheets/ESRI%20stylesheets%20(LYR)/Backdrop%20style/images/Strategi_layer_order.png "Recommended layer order for Strategi")
 
 **9.**  Double-click on a layer to access the ‘Layer Properties’ window > select the ‘Source tab’ > click on ‘Set Data Source…’ > navigate to your Strategi data > select the data that matches the layer, for example for ferry_box select ferry_box.shp > select ‘Add’
 
@@ -34,7 +34,7 @@ We recommend viewing the map between **1:70,000** and **1:250,000** for maximum 
 
 Your map should now look similar to this: 
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/Strategi-stylesheets/raw/master/ESRI%20Shapefile%20stylesheets/ESRI%20stylesheets%20(LYR)/Backdrop%20style/images/Strategi_BD_screenshot.PNG "Screenshot of Strategi at 1:125,000")
+  ![Screenshot](https://github.com/OrdnanceSurvey/Strategi-stylesheets/raw/master/ESRI%20Shapefile%20stylesheets/ESRI%20stylesheets%20(LYR)/Backdrop%20style/images/Strategi_BD_screenshot.png "Screenshot of Strategi at 1:125,000")
 
 ## Compatibility notes
 

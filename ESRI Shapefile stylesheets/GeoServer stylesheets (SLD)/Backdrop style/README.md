@@ -26,7 +26,7 @@ The scale denominators have been set to allow viewing between **1:70,000** and *
 
 Your map should look similar to this: 
 
-  ![Screenshot](https://raw.githubusercontent.com/OrdnanceSurvey/OS-VectorMap-Local-stylesheets/master/ESRI%20Shapefile%20stylesheets/GeoServer%20stylesheets%20%28SLD%29/Backdrop%20style/images/Strategi_BD_screenshot.png "Screenshot of Strategi")
+  ![Screenshot](https://raw.githubusercontent.com/OrdnanceSurvey/Strategi-stylesheets/master/ESRI%20Shapefile%20stylesheets/GeoServer%20stylesheets%20%28SLD%29/Backdrop%20style/images/Strategi_BD_screenshot.png "Screenshot of Strategi")
 
 ##Compatibility notes
 
@@ -36,7 +36,7 @@ Although SLD is an open OGC standard, these SLDs do contain some extended code u
 
 [More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
 
-[More information about OS VectorMap Local](https://www.ordnancesurvey.co.uk/business-and-government/products/strategi.html)
+[More information about Strategi](https://www.ordnancesurvey.co.uk/business-and-government/products/strategi.html)
 
 [More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
 

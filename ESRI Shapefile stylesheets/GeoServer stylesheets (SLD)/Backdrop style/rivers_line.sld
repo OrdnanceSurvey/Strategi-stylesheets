@@ -55,7 +55,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -104,7 +104,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -153,7 +153,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -203,7 +203,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -252,7 +252,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -301,7 +301,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -351,7 +351,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -400,7 +400,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -449,7 +449,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -501,7 +501,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -550,7 +550,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -600,7 +600,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -655,7 +655,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -704,7 +704,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -754,7 +754,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -803,7 +803,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -853,7 +853,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -908,7 +908,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -957,7 +957,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -1007,7 +1007,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -1056,7 +1056,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -1106,7 +1106,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -1161,7 +1161,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
@@ -1210,7 +1210,7 @@ xsi:schemaLocation='http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name='maxAngleDelta'>26</VendorOption>
             <VendorOption name='maxDisplacement'>200</VendorOption>
             <VendorOption name='repeat'>500</VendorOption>
-            <VendorOption name='forceLeftToRigth'>true</VendorOption>
+            <VendorOption name='forceLeftToRight'>true</VendorOption>
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>

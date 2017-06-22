@@ -60,9 +60,9 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <TextSymbolizer>
             <Label>
               <ogc:Function name="Concatenate">
-              <ogc:PropertyName>FERRY_TO</ogc:PropertyName>
-              <ogc:Literal> to </ogc:Literal>
               <ogc:PropertyName>FERRY_FROM</ogc:PropertyName>
+              <ogc:Literal> to </ogc:Literal>
+              <ogc:PropertyName>FERRY_TO</ogc:PropertyName>
               </ogc:Function>
             </Label>
             <Font>

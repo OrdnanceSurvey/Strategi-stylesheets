@@ -1,6 +1,6 @@
 # Strategi Full Colour style
 
-These are LYR files for Strategi in ESRI Shapefile format for use in ESRI ArcGIS.
+These are **LYR** files for Strategi in **ESRI Shapefile** format for use in **ESRI ArcGIS**.
 
 *They have been designed to work with the data as it is supplied.*
 
@@ -44,11 +44,9 @@ Our Layer Files are compatible with versions of ESRI ArcGIS back to version 9.3 
 
 ‘Hidden’ features can be activated through the relevant checkbox
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
-
 [More information about Strategi](http://www.ordnancesurvey.co.uk/business-and-government/products/strategi.html)
 
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 ## Licence
 

@@ -35,6 +35,7 @@ Although SLD is an open OGC standard, these SLDs do contain some extended code u
 ## Additional information
 
 [More information about Strategi](https://www.ordnancesurvey.co.uk/business-and-government/products/strategi.html)
+
 [For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 ## Licence

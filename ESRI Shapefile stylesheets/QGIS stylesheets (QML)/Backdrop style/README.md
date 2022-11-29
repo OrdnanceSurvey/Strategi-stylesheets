@@ -1,6 +1,6 @@
 # Strategi Backdrop style
 
-These are QML files for Strategi in ESRI Shapefile format for use in QGIS.
+These are **QML** files for Strategi in **ESRI Shapefile** format for use in **QGIS**.
 
 *They have been designed to work with the data as it is supplied.*
 
@@ -30,11 +30,9 @@ Your map should now look similar to this:
 
 ## Additional information
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
-
 [More information about Strategi](http://www.ordnancesurvey.co.uk/business-and-government/products/strategi.html)
 
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 ## Licence
 

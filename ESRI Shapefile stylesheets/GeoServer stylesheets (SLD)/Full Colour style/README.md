@@ -1,6 +1,6 @@
 # Strategi Full Colour style
 
-These are SLD files for Strategi in SHP format for use in GeoServer.
+These are **SLD** files for Strategi in **SHP** format for use in **GeoServer**.
 
 *They have been designed to work with the data as supplied in ESRI Shapefiles.*
 
@@ -28,17 +28,15 @@ Your map should look similar to this:
 
   ![Screenshot](https://raw.githubusercontent.com/OrdnanceSurvey/Strategi-stylesheets/master/ESRI%20Shapefile%20stylesheets/GeoServer%20stylesheets%20%28SLD%29/Full%20Colour%20style/images/Strategi_FC_screenshot.png "Screenshot of Strategi")
 
-##Compatibility notes
+## Compatibility notes
 
 Although SLD is an open OGC standard, these SLDs do contain some extended code used by GeoServer, namely the ‘vendor option’ tags.
 
 ## Additional information
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
-
 [More information about Strategi](https://www.ordnancesurvey.co.uk/business-and-government/products/strategi.html)
 
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 ## Licence
 
